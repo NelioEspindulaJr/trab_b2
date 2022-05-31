@@ -1,0 +1,70 @@
+#logo{
+    width: auto;
+    height: 150px;
+    margin: auto;
+}
+
+.v1{
+    border-right: solid 0.1953125vw;
+    border-color: gainsboro;
+}
+
+.responsive{
+    width: 100%;
+    height: auto;
+}
+
+.slideshow_size{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 68%;
+    height: 68%;
+}
+
+.relevant-text{
+    font-weight: bold;
+    color: #ffd600;
+}
+
+.icon-hover:hover{
+
+}
+
+#login-insider{
+    margin: auto;
+}
+
+#login-container{
+    margin: 0 auto;
+    width: 350px;
+    margin-top: 150px;
+    border: solid 1px;
+    background-color: #222222;
+    border-color: #222222;
+    color: #ffffff;
+    border-radius: 4px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+}
+
+.ins-div-l{
+    display: block;
+    margin-left: 77px;
+    margin-right: 77px;
+}
+
+form h4{
+    color: #ffffff;
+}
+
+#sign-in-link{
+    color: #ffd600;
+}
+
+#login-logo{
+    width: auto;
+    height: 20%;
+}

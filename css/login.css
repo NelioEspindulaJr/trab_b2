@@ -1,0 +1,9 @@
+body{
+    background-image: url(https://wallpapercave.com/wp/wp3049034.jpg);
+    background-size: cover;
+}
+
+#bg-disclaimer{
+    font-size: xx-small;
+    color: rgba(255, 255, 255, 0.052);
+}
